@@ -8,6 +8,6 @@
 </a> -->
 
 ### Some languages I know
-[![My Skills](https://skillicons.dev/icons?i=python,js,lua,html,css)](https://skillicons.dev)
+![Languages I know](https://skillicons.dev/icons?i=python,ts,rust,html,css)
 #### ...and what I use to code in those languages
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,git)](https://skillicons.dev)
+![Tools I use](https://skillicons.dev/icons?i=vscode,neovim,git)
