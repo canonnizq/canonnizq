@@ -1,4 +1,6 @@
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 <!--
 <div align="center">
   <a href="https://github.com/canonnizq/">
