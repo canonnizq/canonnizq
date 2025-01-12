@@ -6,3 +6,4 @@
     <img width=750 src="https://github-profile-trophy.vercel.app/?username=canonnizq&theme=onedark&row=1" />
   </a>
 </div>
+<!--purge-->
